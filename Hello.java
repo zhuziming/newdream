@@ -3,5 +3,7 @@ public class Hello{
 		System.out.println("Hello GIT");
 		System.out.println("github");
 		System.out.println("master branch");
+		System.out.println("commit");
+		System.out.println("dev branch");
 	}
 }
