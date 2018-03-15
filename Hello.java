@@ -6,5 +6,6 @@ public class Hello{
 		System.out.println("commit");
 		System.out.println("dev branch");
 		System.out.println("create dev");
+		System.out.println("make commit");
 	}
 }
